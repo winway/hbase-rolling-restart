@@ -1,2 +1,3 @@
 # hbase-rolling-restart
-Hbase rolling restart
+
+sh rolling-restart.sh -f regionservers.txt -n 8
